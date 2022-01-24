@@ -1,0 +1,11 @@
+{
+  "name": "highwire/complex_field",
+  "description": "custom module for drupal 9",
+  "type": "drupal-module",
+  "repositories": [
+    {
+      "type": "composer",
+      "url":  "https://packages.drupal.org/8"
+    }
+  ],
+}
