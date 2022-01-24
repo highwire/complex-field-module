@@ -6,8 +6,6 @@ package: Field types
 # version: 0.x
 
 # Information added by Drupal.org packaging script on 2016-04-12
-version: '8.x-1.x-dev'
-core: '8.x'
 core_version_requirement: ^8 || ^9
 project: 'complex_field'
 datestamp: 1460489464
