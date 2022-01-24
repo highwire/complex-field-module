@@ -1,6 +1,5 @@
 {
   "name": "highwire/complex_field",
-  "version": "8.x-1.x-dev",
   "description": "custom module for drupal 9",
   "homepage": "https://github.com/highwire/complex_field",
   "type": "drupal-module",
