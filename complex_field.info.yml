@@ -1,4 +1,4 @@
-name: "Complex Field API"
+name: "highwire/complex_field"
 description: "Provides a simple way for developers to construct complex fields from other fields. You probably don't need this unless another module depends on it."
 # core: 8.x
 type: module
